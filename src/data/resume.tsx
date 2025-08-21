@@ -208,7 +208,7 @@ avatarUrl: "/itsmy.jpg",
       image: "/rehlaty.png",
     },
     {
-      title: "Jenny’s",
+      title: "Jenny’s Portfolio",
       href: "https://portfolio-clint.vercel.app/",
       dates: "Aug 2025 - Aug 2025",
       active: true,
