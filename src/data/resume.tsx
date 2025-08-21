@@ -215,7 +215,7 @@ avatarUrl: "/itsmy.jpg",
       description:
         "Through a blend of creative design and seamless functionality, this UI/UX designer turns ideas into results. With over a decade of experience and expertise in Figma, Adobe XD, and Sketch, JCREA delivers user-centric digital products that are visually appealing and strategically effective. Dive into projects, browse testimonials, and explore services crafted to elevate your digital presence.",
       technologies: [
-        "Next.js",,
+        "Next.js",
         "TailwindCSS",
         "Shadcn UI",
         "Lenis Scroll",
